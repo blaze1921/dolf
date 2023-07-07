@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dolf/static/css/main.e1c76da2.css",
+    "main.js": "/dolf/static/js/main.64ec83da.js",
+    "static/js/787.fc670dda.chunk.js": "/dolf/static/js/787.fc670dda.chunk.js",
+    "index.html": "/dolf/index.html",
+    "main.e1c76da2.css.map": "/dolf/static/css/main.e1c76da2.css.map",
+    "main.64ec83da.js.map": "/dolf/static/js/main.64ec83da.js.map",
+    "787.fc670dda.chunk.js.map": "/dolf/static/js/787.fc670dda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1c76da2.css",
+    "static/js/main.64ec83da.js"
+  ]
+}
